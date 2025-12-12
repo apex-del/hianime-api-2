@@ -3,7 +3,7 @@ main = "src/worker.js"
 compatibility_date = "2024-01-01"
 
 # Account ID
-account_id = "cd4ab75cca150f63177325a6bb1c355f"
+account_id = "24917f7dd8cbb0d892056bc8e5fc5091"
 
 # Worker configuration
 workers_dev = true
